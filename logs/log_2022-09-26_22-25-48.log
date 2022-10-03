@@ -1,0 +1,44 @@
+
+-----
+Test: tests/test_by_product.py::test_by_product_2 (call)
+Start time: 2022-09-26 22:25:50.008448
+Start name method: autorization
+
+End time: 2022-09-26 22:25:54.347358
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_about_linc.py::test_linc_about (call)
+Start time: 2022-09-26 22:25:56.449067
+Start name method: autorization
+
+End time: 2022-09-26 22:26:00.911696
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_1 (call)
+Start time: 2022-09-26 22:26:10.580521
+Start name method: autorization
+
+End time: 2022-09-26 22:26:15.027361
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_3 (call)
+Start time: 2022-09-26 22:26:16.721482
+Start name method: autorization
+
+End time: 2022-09-26 22:26:21.313080
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----

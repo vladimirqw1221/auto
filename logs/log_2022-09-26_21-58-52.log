@@ -1,0 +1,11 @@
+
+-----
+Test: tests/test_by_product.py::test_by_product_1 (call)
+Start time: 2022-09-26 21:58:54.440480
+Start name method: autorization
+
+End time: 2022-09-26 21:58:59.102693
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----

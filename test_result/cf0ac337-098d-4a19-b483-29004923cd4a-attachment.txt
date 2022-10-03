@@ -1,0 +1,14 @@
+Enter sistem
+Start test
+Start test2
+Curent urlhttps://www.saucedemo.com/
+INPUT 
+INPUT PASSWORD
+CLICK LOGIN BUTTON
+Good claue world
+Curent urlhttps://www.saucedemo.com/inventory.html
+SELECT PRODUCT 2
+CLICK CART
+CLICK CHECKOUT BUTTON 
+Finish test
+exit sistem

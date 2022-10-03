@@ -1,0 +1,22 @@
+
+-----
+Test: tests/test_about_linc.py::test_linc_about (call)
+Start time: 2022-09-27 13:59:19.908660
+Start name method: autorization
+
+End time: 2022-09-27 13:59:24.778411
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_1 (call)
+Start time: 2022-09-27 13:59:39.740112
+Start name method: autorization
+
+End time: 2022-09-27 13:59:43.953999
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----

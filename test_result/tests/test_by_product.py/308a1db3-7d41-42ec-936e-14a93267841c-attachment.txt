@@ -1,0 +1,13 @@
+Start test
+Start test
+Curent urlhttps://www.saucedemo.com/
+INPUT 
+INPUT PASSWORD
+CLICK LOGIN BUTTON
+Good claue world
+Curent urlhttps://www.saucedemo.com/inventory.html
+CLICK menu
+CLICK linc about
+Get value url
+Finish test
+Finish test

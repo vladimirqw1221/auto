@@ -1,0 +1,9 @@
+Enter sistem
+Start test
+Start test1
+Curent urlhttps://www.saucedemo.com/
+INPUT 
+INPUT PASSWORD
+CLICK LOGIN BUTTON
+Good claue world
+Finish test
